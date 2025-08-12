@@ -43,11 +43,4 @@ For PymFinder, follow the installation instructions provided in its official doc
 - **Network Motifs**: Recurring, significant subgraphs within the transaction networks that provide insights into consumer behavior patterns.
 - **Carbon Emissions Analysis**: By associating carbon emissions data with transaction motifs, we can identify specific patterns contributing to higher environmental impacts.
 
-## Acknowledgements
 
-This project was supervised by Valerio Restocchi, with mentorship from Ogy Simeonov. Special thanks to Ekko for providing the dataset and to all contributors for their support.
-
-
-## Contact
-
-For any inquiries or further information, please contact Raga Sreehitha Paritala at [sreehithaparitala@gmail.com].
